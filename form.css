@@ -1,0 +1,88 @@
+body{
+    /* background-color: rgb(120, 224, 235);
+    text-align: center;
+     */
+     background-image: url("https://img.freepik.com/free-vector/lightened-luxury-sedan-car-against-night-city-with-headlamps-rear-tail-lights-lit_1284-28804.jpg?t=st=1719932917~exp=1719936517~hmac=6ca459e98c6df6458abdb4924b638349b3af00dd21d07312aab78a16de65e3fb&w=996");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   background-size: cover;
+   text-align: center;
+}
+
+
+#myh1{
+    text-align: center;
+    color: rgb(226, 217, 43);
+    font-style: oblique;
+    font-size: 3em;
+    }
+#myname
+    {
+       font-size: 20px;
+       color: rgb(223, 11, 11);
+        font-weight: bolder;
+        text-align: center;
+   
+    
+}
+#name{
+   
+    font-size: 2em;
+    color:rgb(2, 251, 193);
+    font-weight: bolder;
+  text-align: center;
+
+
+    
+}
+#myemail
+    {
+       font-size: 20px;
+        color: rgb(223, 11, 11);
+        font-weight: bolder;
+    }
+#email{
+    font-size: 2em;
+    color:rgb(2, 251, 193);
+    font-weight: bolder;
+}
+#myPassword
+{
+   font-size: 20px;
+   color:rgb(223, 11, 11);
+    font-weight: bolder;}
+#Password{
+    font-size: 2em;
+    color:rgb(2, 251, 193);
+    font-weight: bolder;
+}
+#mynumber
+    {
+       font-size: 20px;
+        color: rgb(223, 11, 11);
+        font-weight: bolder;}
+#number{
+    font-size: 2em;
+    color:rgb(2, 251, 193);
+    font-weight: bolder;
+}
+#mysubmit{
+    font-size: 2.2em;
+    color: rgb(76, 0, 255);
+    color:rgb(251, 2, 64);
+    border-radius: 8px;
+    cursor: pointer;
+    margin-left: 25%;
+}
+#mysubmit:hover{
+    background-color: rgb(0, 255, 162);
+}
+#success{
+    text-align: center;
+    color: #f1f502;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
